@@ -1,0 +1,8 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,address.zip,contact.email,contact.phone,preferences.language,preferences.newsletter,gender
+Rohit,Prasad,35,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,411001,rohit@example.com,9876543210,English,True,male
+Amit,Sharma,28,B-101 Sunshine Apartments,Mumbai Road,Mumbai,Maharashtra,400001,amit@example.com,9123456780,Hindi,False,male
+Sneha,Patil,42,Flat 12 Green Park,MG Road,Pune,Maharashtra,411005,sneha@example.com,9988776655,English,True,female
+Priya,Raj,19,101 Lotus Residency,Near Park,Pune,Maharashtra,411010,priya@example.com,9871122334,Hindi,False,female
+Karan,Mehta,61,505 Ocean View,Seaside Road,Mumbai,Maharashtra,400005,karan@example.com,9122334455,English,True,male
+Anjali,Verma,33,22 Maple Street,MG Road,Pune,Maharashtra,411020,anjali@example.com,9988223344,Hindi,False,female
+Vikram,Singh,47,7 Lotus Garden,Ashok Road,Delhi,Delhi,110001,vikram@example.com,9877665544,English,True,male
